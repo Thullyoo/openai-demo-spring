@@ -26,4 +26,4 @@ Este projeto é uma demonstração simples de como integrar a API da OpenAI com 
 2. **Configure sua variável de ambiente**
    
     ```bash
-    OPEN_API_KEY
+    OPENAI_API_KEY
